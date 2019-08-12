@@ -13,7 +13,6 @@ a = int(input())
 b = int(input())
 
 
-# Can you change it so it can read and sum three numbers?
 c = int(input())
 print(a+b+c)
 
