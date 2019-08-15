@@ -6,7 +6,6 @@ Example input
 
 Example output
 6
-
 ```
 
 a = int(input())
