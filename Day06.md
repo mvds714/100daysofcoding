@@ -7,33 +7,23 @@ Example
 INPUT 
 
 4
-
 0
-
 0
-
 0
-
 
 OUTPUT
 
 4
-
-
 
 INPUT 
 
 0
-
 0
-
 4
-
 3
 
 
 OUTPUT
-
 5
 
 ```
