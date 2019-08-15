@@ -2,13 +2,11 @@
 
 ```
 Example input
-
 123
 
-
 Example output
-
 6
+
 ```
 
 a = int(input())
